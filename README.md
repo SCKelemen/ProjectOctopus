@@ -8,4 +8,4 @@ The Rules:
 
 ROUND 1: 17 October
 
-Language: TBD
+Language: Python 3.5
